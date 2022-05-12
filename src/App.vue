@@ -1,22 +1,25 @@
 <template>
   <div>
-    <titleFile />
+    <titoloFile />
+    <jumbotronPrimo />
   </div>
 </template>
 
 <script>
 
-import title from '@/components/title'
+import titoloFile from '@/components/Title.vue'
+import jumbotronPrimo from '@/components/Jumbotron.vue'
 
-export default{
+export default {
   name: 'App',
   components: {
-    titleFIle,
+    titoloFile,
+    jumbotronPrimo,
   }
 }
 
 </script>
 
 <style lang="scss">
-
+  
 </style>

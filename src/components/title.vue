@@ -1,5 +1,5 @@
 <template>
-  <h1>Il mio Primo progetto node.js</h1>
+  <h1>La mia prima app con Vue CLI!</h1>
 </template>
 
 <script>
